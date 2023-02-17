@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "newprop": "Something new..."
+    },
+    {
+      "id": 2,
+      "newprop": "Something new..."
+    },
+    {
+      "id": 3,
+      "newprop": "Something new... patched"
+    },
+    {
+      "entirenew": "Something entire new... PUTed",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
